@@ -1,0 +1,24 @@
+{
+    "productos": [
+        {"id":1,"name":"Lettuce - Spring Mix","price":6440,"available":true},
+        {"id":2,"name":"Sprouts - Corn","price":3254,"available":false},
+        {"id":3,"name":"Strawberries","price":5516,"available":false},
+        {"id":4,"name":"Bread - Focaccia Quarter","price":7774,"available":true},
+        {"id":5,"name":"Beef - Tenderlion, Center Cut","price":9052,"available":false},
+        {"id":6,"name":"Tart - Raisin And Pecan","price":4266,"available":true},
+        {"id":7,"name":"Basil - Thai","price":1974,"available":false},
+        {"id":8,"name":"Soup - Tomato Mush. Florentine","price":4237,"available":false},
+        {"id":9,"name":"Soup Campbells Split Pea And Ham","price":6175,"available":true},
+        {"id":10,"name":"Anchovy In Oil","price":5774,"available":true},
+        {"id":11,"name":"Ice Cream Bar - Oreo Sandwich","price":5219,"available":true},
+        {"id":12,"name":"Instant Coffee","price":4493,"available":false},
+        {"id":13,"name":"Rice Pilaf, Dry,package","price":6488,"available":true},
+        {"id":14,"name":"Lemon Balm - Fresh","price":1669,"available":true},
+        {"id":15,"name":"Island Oasis - Lemonade","price":9131,"available":true},
+        {"id":16,"name":"Syrup - Monin - Blue Curacao","price":4780,"available":true},
+        {"id":17,"name":"Sansho Powder","price":4297,"available":true},
+        {"id":18,"name":"Pepper - Julienne, Frozen","price":3390,"available":false},
+        {"id":19,"name":"Veal - Insides, Grains","price":9634,"available":true},
+        {"id":20,"name":"Nantucket - 518ml","price":1340,"available":true},
+        ]
+}
