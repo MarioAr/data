@@ -19,6 +19,6 @@
         {"id":17,"name":"Sansho Powder","price":4297,"available":true},
         {"id":18,"name":"Pepper - Julienne, Frozen","price":3390,"available":false},
         {"id":19,"name":"Veal - Insides, Grains","price":9634,"available":true},
-        {"id":20,"name":"Nantucket - 518ml","price":1340,"available":true},
+        {"id":20,"name":"Nantucket - 518ml","price":1340,"available":true}
         ]
 }
